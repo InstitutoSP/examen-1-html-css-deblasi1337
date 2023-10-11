@@ -1,0 +1,26 @@
+nav{background-color: blueviolet;
+padding: 18px;
+list-style-type: none;}
+ul{list-style: none;}
+a{text-decoration: none;
+color: #333;
+font-weight: bold;}
+li{margin: 20px;
+display: inline;
+text-align: justify;}
+p{color: rgb(27, 179, 78);}
+body{background-color: #eee;
+font-size: 18px;}
+header{background-color: rgb(0, 0, 0);
+color:#fff;
+padding: 20px;
+text-align: center;}
+*{font-size: 20px;
+text-align: center;}
+footer{background-color: aqua;
+color: blue;
+padding: 18px;}
+footer p{color: black;}
+h1{font-size: 18px;}
+h2{font-size: 18px;}
+section{margin-bottom: 20px;}
